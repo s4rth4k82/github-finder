@@ -17,7 +17,7 @@ GitHub Finder is a web application built with React.js that allows users to sear
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/github-finder.git
+   git clone https://github.com/s4rth4k82/github-finder.git
 
 2. **Navigate to the project directory:**
     ```bash
@@ -46,11 +46,8 @@ GitHub Finder is a web application built with React.js that allows users to sear
 
 ## Dependencies
 
-  - axios: ^0.21.1
+  - axios: ^0.25.0
   - react: ^17.0.2
   - react-dom: ^17.0.2
-  - react-scripts: 4.0.3
-
-
-
+  - react-scripts: 5.0.3
 
